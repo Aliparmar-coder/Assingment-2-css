@@ -1,0 +1,21 @@
+h2 {
+    color: cadetblue;
+}
+
+tr>td {
+    color: black;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    background-color: black;
+}
+ h2 {
+    background-color: aqua;
+ }
+ body {
+    background-color: gray
+ }
+ 
